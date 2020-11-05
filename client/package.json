@@ -1,0 +1,18 @@
+{
+  "name": "FODA",
+  "version": "0.5.58",
+  "author": "rafaelcastrocouto",
+  "description": "Fight Over Dat Ancient - Desktop app",
+  "homepage": "https://foda-app.herokuapp.com/",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "latest"
+  },
+  "dependencies": {
+    "grunt-version": "latest"
+  },
+  "license": "Hippocratic-2.1+"
+}
